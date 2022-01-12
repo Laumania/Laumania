@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Mads.
+I’m Mads, also known as Laumania.
 
 I’m a passionated .NET/C# developer, who likes to play around with C# and see how much I can do with it.
 
