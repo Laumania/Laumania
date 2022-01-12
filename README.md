@@ -10,4 +10,4 @@ At night times I play around more exotic technologies like Unity3d, Xamarin (iOS
 My main spare time project since January 2019 have been a game/simulator called "Fireworks Mania".
 Check it out on Steam: https://store.steampowered.com/app/1079260/Fireworks_Mania__An_Explosive_Simulator/
 
-[![Fireworks Mania on Steam](https://laumania.net/wp-content/uploads/Laumania.net-widget-banner.png)](https://store.steampowered.com/app/1079260/)
+[![Fireworks Mania on Steam](https://user-images.githubusercontent.com/1378458/149175812-6473165c-1fb6-4267-852a-8187bfa637d8.png)](https://store.steampowered.com/app/1079260/)
